@@ -1,2 +1,3 @@
-Hello worl
+Hello world
 <test 1: second commit: Thinh>
+<test 2: third commit: Dang>
